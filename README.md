@@ -5,3 +5,4 @@ It's a copy of the original game
 - display of the local timer
 - keep track of user's time and total attempts
 - each 2 seconds there is a change of colours into the background
+- the secret word is selected from a txt file randomly
