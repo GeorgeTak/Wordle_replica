@@ -6,3 +6,4 @@ It's a copy of the original game
 - keep track of user's time and total attempts
 - each 2 seconds there is a change of colours into the background
 - the secret word is selected from a txt file randomly
+- keep track of word's letters that have been used 
